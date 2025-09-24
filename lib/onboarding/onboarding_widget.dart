@@ -197,7 +197,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                   FontAwesomeIcons.plus,
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
-                                  size: 21.0,
+                                  size: 20.0,
                                 ),
                                 onPressed: () {
                                   print('IconButton pressed ...');
